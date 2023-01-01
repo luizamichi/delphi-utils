@@ -1,0 +1,9 @@
+{
+    "name": "lib-util",
+    "description": "Biblioteca com funções úteis",
+    "version": "1.0.0",
+    "homepage": "github.com/luizamichi/delphi-utils/tree/master/lib-util",
+    "mainsrc": "./src",
+    "projects": [],
+    "dependencies": {}
+}
