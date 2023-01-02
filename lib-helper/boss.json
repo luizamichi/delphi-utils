@@ -1,0 +1,9 @@
+{
+    "name": "lib-helper",
+    "description": "Classes helpers",
+    "version": "1.0.0",
+    "homepage": "github.com/luizamichi/delphi-utils/tree/master/lib-helper",
+    "mainsrc": "./src",
+    "projects": [],
+    "dependencies": {}
+}
