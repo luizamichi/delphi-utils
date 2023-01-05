@@ -1,0 +1,9 @@
+{
+    "name": "lib-oracle-datamodule",
+    "description": "Conexão com o Oracle DB",
+    "version": "1.0.0",
+    "homepage": "github.com/luizamichi/delphi-utils/tree/master/lib-oracle-datamodule",
+    "mainsrc": "./src",
+    "projects": [],
+    "dependencies": {}
+}
