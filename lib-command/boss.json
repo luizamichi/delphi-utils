@@ -1,0 +1,9 @@
+{
+    "name": "lib-command",
+    "description": "Padrão de projeto de software comportamental Command",
+    "version": "1.0.0",
+    "homepage": "github.com/luizamichi/delphi-utils/tree/master/lib-command",
+    "mainsrc": "./src",
+    "projects": [],
+    "dependencies": {}
+}
