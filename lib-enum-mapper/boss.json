@@ -1,0 +1,9 @@
+{
+    "name": "lib-enum-mapper",
+    "description": "Classe para mapear enumerados",
+    "version": "1.0.0",
+    "homepage": "github.com/luizamichi/delphi-utils/tree/master/lib-enum-mapper",
+    "mainsrc": "./src",
+    "projects": [],
+    "dependencies": {}
+}

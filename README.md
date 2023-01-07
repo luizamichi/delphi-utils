@@ -10,6 +10,10 @@ Classes que facilitam a criação do padrão de projeto de software comportament
 
 Classes auxiliares para caractere, conjunto de caracteres, string, GUID, JSON e Memo.
 
+### Enum Mapper
+
+Classes que facilita o mapeamento de enumerados.
+
 ### Horse Callback
 
 Classe que facilita o tratamento de requisições callbacks com o Horse.
