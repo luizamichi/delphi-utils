@@ -1,0 +1,11 @@
+{
+    "name": "lib-horse-callback",
+    "description": "Classe para tratamento de requisições callbacks",
+    "version": "1.0.0",
+    "homepage": "github.com/luizamichi/delphi-utils/tree/master/lib-horse-callback",
+    "mainsrc": "./src",
+    "projects": [],
+    "dependencies": {
+        "github.com/hashload/horse": "^3.1.1"
+    }
+}
