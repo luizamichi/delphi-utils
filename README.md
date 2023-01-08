@@ -18,6 +18,10 @@ Classes que facilita o mapeamento de enumerados.
 
 Classe que facilita o tratamento de requisições callbacks com o Horse.
 
+### Interceptor
+
+Classes interceptoras para listas e dicionários.
+
 ### Oracle DataModule
 
 DataModule para ser herdado por outros DataModules com conexão configurada para o Oracle DB.

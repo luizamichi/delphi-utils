@@ -1,0 +1,11 @@
+{
+    "name": "lib-interceptor",
+    "description": "Classes interceptoras",
+    "version": "1.0.0",
+    "homepage": "github.com/luizamichi/delphi-utils/tree/master/lib-interceptor",
+    "mainsrc": "./src",
+    "projects": [],
+    "dependencies": {
+        "github.com/luizamichi/delphi-utils/tree/master/lib-util": "^1.0.0"
+    }
+}
